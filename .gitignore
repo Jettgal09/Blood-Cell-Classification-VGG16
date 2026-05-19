@@ -16,3 +16,29 @@ models/
 .venv/
 __pycache__/
 *.pyc
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset
+dataset/
+
+# VS Code
+.vscode/
+
+# Workspace files
+*.code-workspace
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Model weights (optional)
+models/
+
+# Jupyter
+.ipynb_checkpoints/
