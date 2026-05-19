@@ -42,3 +42,5 @@ models/
 
 # Jupyter
 .ipynb_checkpoints/
+
+Blood-Cell-Classification-VGG16.code-workspace
